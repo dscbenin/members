@@ -1,22 +1,22 @@
 Please fill the following
 
-Name :
+Name :Efe Erhus
 
-Sex :
+Sex :Male
 
-Department :
+Department :Medicine
 
-DSC Learning Track :
+DSC Learning Track :Machine Learning
 
-Email :
+Email :erhusefe@gmail.com 
 
-Phone :
+Phone :07064976534
 
-Slack Username :
+Slack Username :Efe Erhus
 
-Twitter handle : 
+Twitter handle :Erhus_nderson
 
-Facebook :
+Facebook :Erhus Anderson
 
 Medium Handle :
 
