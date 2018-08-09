@@ -1,23 +1,23 @@
 Please fill the following
 
-Name :
+Name : Victor Oghenebrume Ashasha 
 
-Sex :
+Sex : Male
 
-Department :
+Department : Computer Science
 
-DSC Learning Track :
+DSC Learning Track : Machine Learning
 
-Email :
+Email : ashashavictor@gmail.com
 
-Phone :
+Phone : 08083507601
 
-Slack Username :
+Slack Username : Bruvic
 
-Twitter handle : 
+Twitter handle : https://twitter.com/Victor75899936
 
-Facebook :
+Facebook : https://web.facebook.com/victor.ashasha.9
 
-Medium Handle :
+Medium Handle : https://medium.com/@ashashavictor
 
-Github page .io url : 
+Github page .io url : https://bruvic.github.io/
