@@ -1,23 +1,23 @@
 Please fill the following
 
-Name :
+Name :Anuge Emmanuel Aidenehi
 
-Sex :
+Sex :Male
 
-Department :
+Department :Linguistics
 
-DSC Learning Track :
+DSC Learning Track :UI/UX
 
-Email :
+Email :emmaron78@gmail.com	
 
-Phone :
+Phone :08121860286
 
-Slack Username :
+Slack Username :Anuge
 
-Twitter handle : 
+Twitter handle :@iam_anuge 
 
-Facebook :
+Facebook :facebook.com/emmanuelanuge
 
-Medium Handle :
+Medium Handle :Anuge
 
-Github page .io url : 
+Github page .io url : https://aidenehi.github.io/dscuniben-task/
