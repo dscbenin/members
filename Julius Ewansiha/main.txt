@@ -1,6 +1,6 @@
 Please fill the following
 
-Name : Julius
+Name : Julius Ewansiha
 
 Sex :Male
 
@@ -20,4 +20,4 @@ Facebook :julius ewansiha
 
 Medium Handle :
 
-Github page .io url :
+Github page .io url :julitech.github.io
