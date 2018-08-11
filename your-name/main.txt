@@ -1,23 +1,20 @@
 Please fill the following
 
-Name : Chime Joseph
+Name : 
 
-Sex :Male
+Sex :
 
-Department :Chemical Engineering
+Department :
 
-DSC Learning Track :Version Control
+DSC Learning Track :
 
-Email :chime.joseph39@yahoo.com
 
-Phone :09034935114
+Slack Username :
 
-Slack Username :chime joseph
+Twitter handle : 
 
-Twitter handle : chimejoseph3
+Facebook :
 
-Facebook :chime josephkingsley
+Medium Handle :
 
-Medium Handle :chime joseph
-
-Github page .io url :chimejoseph.github.io
+Github page .io url :
