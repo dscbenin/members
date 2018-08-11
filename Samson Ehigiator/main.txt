@@ -1,0 +1,23 @@
+Please fill the following
+
+Name : Samson Ehigiator
+
+Sex : Male
+
+Department : Computer Science
+
+DSC Learning Track : Machine Learning
+
+Email : samson.ehigiator@physci.uniben.edu
+
+Phone : 09033363227
+
+Slack Username : @SavvyProgrammer
+
+Twitter handle : @SavvyProgrammer
+
+Facebook : facebook.com/SavvyProgrammer
+
+Medium Handle : https://medium.com/@dasamdave
+
+Github page .io url : https://savvyprogrammer.github.io/
