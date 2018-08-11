@@ -1,0 +1,20 @@
+------------------------------------------------------------------
+|                    # version control week                      |
+------------------------------------------------------------------
+|--- Got acquainted with CLI                                     |
+|--- Created a GitHub account                                    |
+|--- Forked DSC-Uniben Members Repo                              |
+|--- Cloned the Forked Repo                                      |
+|--- Added a Git remote for the Original Repo                    |
+|--- Created vincentbranch in which changes where placed         |
+|--- Filled in my info and committed changes to branch           |
+|--- Pushed vincentbranch  to GitHub                             |
+|--- Opened Pull request from vincentbranch                      |
+|--- Created https://vincycode7.github.io/                       |
+|--- Created a medium account (https://medium.com/@vincycode7)   |
+|*** Awaiting merger and prepping for vincentbranch     clean-up |
+------------------------------------------------------------------
+|Learning about version control this week as been an experience  |
+|for me... There wasn't really any snag because the resources    |
+|where concise. Thanks DSC-Uniben for the opportunity.           |
+------------------------------------------------------------------
