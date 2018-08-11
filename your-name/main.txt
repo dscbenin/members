@@ -1,23 +1,23 @@
 Please fill the following
 
-Name : Obinna Sunday Ikeh
+Name : 
 
-Sex :  Male
+Sex :  
 
-Department : Computer Science 
+Department :  
 
-DSC Learning Track : Version control 
+DSC Learning Track :  
 
-Email : Hikenike6@gmail.com
+Email : 
 
-Phone : 08076960623
+Phone : 
 
-Slack Username : Beesafe
+Slack Username : 
 
-Twitter handle : HikeObinna
+Twitter handle : 
 
-Facebook : Hike ike
+Facebook : 
 
-Medium Handle : https://medium.com/@hikenike6 
+Medium Handle : 
 
-Github page .io url : hikeolin.github.io
+Github page .io url : 
