@@ -1,23 +1,23 @@
 Please fill the following
 
-Name :
+Name : Frank Ezenwanne
 
-Sex :
+Sex :Male
 
-Department :
+Department : Pharmacy
 
-DSC Learning Track :
+DSC Learning Track : Machine learning
 
-Email :
+Email : efrank272@gmail.com
 
-Phone :
+Phone : 09035440199
 
-Slack Username :
+Slack Username : Frank
 
-Twitter handle : 
+Twitter handle : @frankezenwanne
 
-Facebook :
+Facebook : Frank Ezenwanne
 
-Medium Handle :
+Medium Handle : FrankEze
 
-Github page .io url : 
+Github page .io url : sherlyyoung.github.io
