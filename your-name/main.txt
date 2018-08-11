@@ -1,21 +1,21 @@
 Please fill the following
 
-Name :
+Name :Catherine Uwaya
 
-Sex :
+Sex :Female
 
-Department :
+Department :Pharmacy
 
-Email :
+Email :kathryn.uwaya@gmail.com
 
-Phone :
+Phone :08092528678
 
-Slack Username :
+Slack Username :Catherine
 
-Twitter handle : 
+Twitter handle :cathy_uwaya
 
-Facebook :
+Facebook :Catherine Uwaya
 
-Medium Handle :
+Medium Handle :Catherine Uwaya
 
-Github page .io url : 
+Github page .io url :https://github.com/CatherineUwaya/CathyUwaya.io.git 
