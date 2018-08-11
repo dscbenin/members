@@ -1,20 +1,20 @@
 Please fill the following
 
-Name : akande samson
+Name : 
 
-Sex : male
+Sex : 
 
-Department : computer Science
+Department :  
 
-DSC Learning Track : Web Development
+DSC Learning Track :  
 
-Email :	akandesamson12@gmail.com	
+Email :		
 
-Phone :	08148404629
+Phone :	
 
-Slack Username : CodeHead
+Slack Username : 
 
-Twitter handle : @mrAkandeSamson
+Twitter handle : 
 
 Facebook : 
 
