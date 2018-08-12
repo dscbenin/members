@@ -1,0 +1,23 @@
+Please fill the following
+
+Name : Adelugba Pelumi
+
+Sex : Male
+
+Department : Computer Science
+
+DSC Learning Track : Machine Learning
+
+Email : delugba@gmail.com
+
+Phone : 08094679899
+
+Slack Username : Lumi
+
+Twitter handle : @Lugba__
+
+Facebook : Adelugba Pelumi
+
+Medium Handle : @delugba
+
+Github page .io url : lumi-lugba.github.io

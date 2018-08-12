@@ -1,6 +1,6 @@
 Please fill the following
 
-Name :
+Name : 
 
 Sex :
 
@@ -8,9 +8,6 @@ Department :
 
 DSC Learning Track :
 
-Email :
-
-Phone :
 
 Slack Username :
 
@@ -20,4 +17,4 @@ Facebook :
 
 Medium Handle :
 
-Github page .io url : 
+Github page .io url :
