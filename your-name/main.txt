@@ -1,6 +1,6 @@
 Please fill the following
 
-Name :SERIKI OPEYEMI OMOTAYO
+Name :seriki opeyemi omotayo
 
 Sex :FEMALE
 
@@ -8,9 +8,6 @@ Department :COMPUTER SCIENCE
 
 DSC Learning Track :MACHINE LEARNING
 
-Email :dammierezseriki@gmail.com
-
-Phone :08068565138
 
 Slack Username :OPEYEMI SERIKI
 
@@ -18,6 +15,7 @@ Twitter handle : @Ms_NotUrBoo
 
 Facebook :OPEYEMI SERIKI
 
-Medium Handle :OPEYEMI SERIKI
+Medium Handle :opeyemi seriki
 
-Github page .io url : https://github.com/chocolatebunny-0
+Github page .io url : https://github.com/chocolatebunny-0/chocolatebunny-0.github.io/
+
