@@ -1,21 +1,9 @@
-Please fill the following
-
-Name :seriki opeyemi omotayo
-
-Sex :FEMALE
-
-Department :COMPUTER SCIENCE
-
-DSC Learning Track :MACHINE LEARNING
-
-
-Slack Username :OPEYEMI SERIKI
-
-Twitter handle : @Ms_NotUrBoo
-
-Facebook :OPEYEMI SERIKI
-
-Medium Handle :opeyemi seriki
-
-Github page .io url : https://github.com/chocolatebunny-0/chocolatebunny-0.github.io/
-
+Name :Magit Jessica Awelekume
+Sex :Female
+Department :Medicine and Surgery
+DSC Learning Track :Machine Learing
+Slack Username :Jexika M
+Twitter handle : @jexika_mag
+Facebook : Jessica Magit
+Medium Handle :
+Github page .io url :https://github.com/Jexika-Mag/Jexika-Mag.github.io.g
