@@ -1,2 +1,0 @@
-I guess we are have to fill here, I mean, it's the feedback note afterall.
-So here goes: I've (actually) had a github account before now, but i never got around to using it via terminal, I would always and lazily dragged and dropped items from my local machine to a new repo on git. I've gotta say, the article on achieving this is quite the GOLD and the admins of DSCBENIN are the GOLD(WO)MEN. I have achieved something today. :)))
