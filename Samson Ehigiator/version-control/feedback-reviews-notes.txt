@@ -1,0 +1,17 @@
+------------------------------------------------------------------
+|                    # version control week                      |
+------------------------------------------------------------------
+|--- Forked DSC-Uniben Members Repo                              |
+|--- Cloned the Forked Repo to my local repository               |
+|--- Added a Git remote for the Original Repo ( Upstream )       |
+|--- Created DSC-Uniben branch to keep the master branch clean   |
+|--- Filled in my info and committed changes to branch           |
+|--- Pushed working branch to GitHub                             |
+|--- Opened Pull request from current HEAD                       |
+|--- Created SavvyProgrammer.github.io                           |
+|--- Created medium.com/@dasamdave                               |
+|*** Awaiting merger and prepping for branch clean-up            |
+------------------------------------------------------------------
+|   #Awesome!!!                                                  |
+|   #DSC-Uniben                                                  |
+------------------------------------------------------------------
