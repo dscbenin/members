@@ -1,23 +1,21 @@
 Please fill the following
 
-Name :SERIKI OPEYEMI OMOTAYO
+Name : Ebhomenye Emmanuel
 
-Sex :FEMALE
+Sex : MALE
 
-Department :COMPUTER SCIENCE
+Department : Computer Engineering
 
-DSC Learning Track :MACHINE LEARNING
+DSC Learning Track :Android development
 
-Email :dammierezseriki@gmail.com
 
-Phone :08068565138
+Slack Username :Ebhomenye Emmanuel
+Twitter handle : esquare_Jordan
 
-Slack Username :OPEYEMI SERIKI
+Facebook :Ebhomenye Emmanuel
 
-Twitter handle : @Ms_NotUrBoo
+Medium Handle :
 
-Facebook :OPEYEMI SERIKI
+Github page .io url:
+https://github.com/EbhomenyeEmmanuel/EbhomenyeEmmanuel.github.io/
 
-Medium Handle :OPEYEMI SERIKI
-
-Github page .io url : https://github.com/chocolatebunny-0
