@@ -1,0 +1,20 @@
+Please fill the following
+
+Name :Moses Egbon
+
+Sex :Male
+
+Department :Dentistry
+
+DSC Learning Track :Front End
+
+Slack Username :Egbon Moses
+
+Twitter handle :@Mosesegbon
+
+Facebook :Moses Osas
+
+Medium Handle :@egbonmoses
+
+Github page .io url :anastocode.github.io
+
