@@ -1,23 +1,23 @@
 Please fill the following
 
-Name :SERIKI OPEYEMI OMOTAYO
+Name :HENRY EBUBECHUKWU ONYIA
 
-Sex :FEMALE
+Sex :MALE
 
-Department :COMPUTER SCIENCE
+Department :CHEMICAL ENGINEERING
 
 DSC Learning Track :MACHINE LEARNING
 
-Email :dammierezseriki@gmail.com
+Email :Henry.onyia96@gmail.com
 
-Phone :08068565138
+Phone :08187780811
 
-Slack Username :OPEYEMI SERIKI
+Slack Username :HENRY ONYIA
 
-Twitter handle : @Ms_NotUrBoo
+Twitter handle :
 
-Facebook :OPEYEMI SERIKI
+Facebook :HENRY EBUBE ONYIA
 
-Medium Handle :OPEYEMI SERIKI
+Medium Handle :HENRY EBUBECHUKWU ONYIA
 
-Github page .io url : https://github.com/chocolatebunny-0
+Github page .io url : https://github.com/HenryNasica
